@@ -2002,25 +2002,6 @@ img[src='/assets/387a7c504c96b992872d.svg'] {
 .toolsContainer__4e6ad {
 	margin-right: 37px;
 }
-#app-mount .closeButton__8177f {
-	border-color: var(--channels-default);
-}
-#app-mount .closeButton__8177f path[fill] {
-	fill: var(--channels-default);
-}
-#app-mount .closeButton__8177f:hover {
-	background-color: rgba(var(--backgroundaccent_v),.3);
-	border-color: var(--header-secondary);
-}
-#app-mount .closeButton__8177f:hover path[fill] {
-	fill: var(--header-secondary);
-}
-#app-mount .closeButton__8177f:active {
-	border-color: var(--text-normal);
-}
-#app-mount .closeButton__8177f:active path[fill] {
-	fill: var(--text-normal);
-}
 #app-mount .keybind_a619c1 {
 	color: var(--channels-default);
 }
